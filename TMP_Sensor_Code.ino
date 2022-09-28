@@ -3,6 +3,8 @@
 // Author:        Vanessa Noel
 // Breif:         Simple program that reads the input of an analog pin and ouputs the temperature value.
 
+// I'm adding my name to this for commit credit - Hamish x
+
 // analog pin
 int sensor_pin = 0;
 
